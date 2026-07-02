@@ -1,1 +1,1 @@
-print "hola, tendencias"
+print ("hola, tendenc")
